@@ -6,12 +6,11 @@
 📫 **You can reach me at**: [muhammaduzair0822@gmail.com](mailto:muhammaduzair0822@gmail.com)  
  
 
-## Connect with me:  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoWidth=30)](https://github.com/MuhammadUzaires)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=30)](https://instagram.com/)  
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&logoWidth=30)](https://facebook.com/)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/muhammad-uzair-666119320/)  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&logoWidth=30)](https://twitter.com/)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoWidth=40&logoHeight=40)](https://github.com/MuhammadUzaires)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=40&logoHeight=40)](https://instagram.com/)  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&logoWidth=40&logoHeight=40)](https://facebook.com/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40&logoHeight=40)](https://www.linkedin.com/in/muhammad-uzair-666119320/)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&logoWidth=40&logoHeight=40)](https://twitter.com/)  
 
 
 
