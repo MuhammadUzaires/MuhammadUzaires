@@ -5,15 +5,13 @@
 💬 **Feel free to ask me anything about Data Science, Data Analytics, and AI**  
 📫 **You can reach me at**: [muhammaduzair0822@gmail.com](mailto:muhammaduzair0822@gmail.com)  
  
----
 
 ## Connect with me:  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MuhammadUzaires)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MuhammadUzaires)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)  
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)  
 
----
 
 ## Languages and Tools:  
 
@@ -34,7 +32,6 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=black)  
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
 
----
 
 | **Skill Area**          | **Percentage** | **Description**                                   |
 |--------------------------|----------------|---------------------------------------------------|
