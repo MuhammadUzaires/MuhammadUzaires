@@ -33,9 +33,30 @@
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
 
 
-| **Skill Area**          | **Percentage** | **Description**                                   |
-|--------------------------|----------------|---------------------------------------------------|
-| **Data Science**         | 70%            | Data preprocessing, feature engineering, statistical analysis, and data visualization. |
-| **Machine Learning**     | 40%            | Designing and training ML models, supervised and unsupervised learning.               |
-| **Data Analytics**       | 60%            | Analyzing datasets, generating insights, and creating dashboards using tools like Tableau and Power BI. |
-| **Deep Learning**        | 30%            | Neural networks, computer vision, and natural language processing using frameworks like TensorFlow and PyTorch. |
+<table style="width:100%; background-color: #1e1e1e; color: white; border-collapse: collapse;">
+  <tr>
+    <th style="padding: 10px; text-align: left;">Skill Area</th>
+    <th style="padding: 10px; text-align: left;">Percentage</th>
+    <th style="padding: 10px; text-align: left;">Description</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; color: #70db70;">Data Science</td>
+    <td style="padding: 10px; background-color: #70db70; color: white; text-align: center;">70%</td>
+    <td style="padding: 10px;">Data preprocessing, feature engineering, statistical analysis, and data visualization.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; color: #f1c232;">Machine Learning</td>
+    <td style="padding: 10px; background-color: #f1c232; color: white; text-align: center;">40%</td>
+    <td style="padding: 10px;">Designing and training ML models, supervised and unsupervised learning.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; color: #ffbf00;">Data Analytics</td>
+    <td style="padding: 10px; background-color: #ffbf00; color: white; text-align: center;">60%</td>
+    <td style="padding: 10px;">Analyzing datasets, generating insights, and creating dashboards using tools like Tableau and Power BI.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; color: #ff6666;">Deep Learning</td>
+    <td style="padding: 10px; background-color: #ff6666; color: white; text-align: center;">30%</td>
+    <td style="padding: 10px;">Neural networks, computer vision, and natural language processing using frameworks like TensorFlow and PyTorch.</td>
+  </tr>
+</table>
