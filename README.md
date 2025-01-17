@@ -21,8 +21,8 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,Matplotlib,seaboan,pandas,numpy&perline=6)](https://skillicons.dev)
+### Languages and Tools:    
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,pytorch,keras&perline=6)](https://skillicons.dev)
 
 ### Data Science & ML Tools:
 <div>
