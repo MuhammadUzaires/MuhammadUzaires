@@ -22,7 +22,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,flask,django&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,Matplotlib,seaboan,pandas,numpy&perline=6)](https://skillicons.dev)
 
 ### Data Science & ML Tools:
 <div>
