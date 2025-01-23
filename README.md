@@ -47,8 +47,8 @@
 
 ### Skill Area Breakdown:
 <div>
-  <img src="https://img.shields.io/badge/Data%20Science 25-70db70?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning 25-f1c232?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics 25-ffbf00?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning 25-ff6666?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science -70db70?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning -f1c232?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics -ffbf00?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning -ff6666?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
