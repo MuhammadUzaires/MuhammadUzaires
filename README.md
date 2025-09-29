@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 
-- 🔭 I'm a Data Scientist and Aspiring Machine Learning Engineer
-- 🌱 Currently exploring advanced topics in Machine Learning and Deep Learning
-- 💬 Feel free to ask me anything about Data Science, Data Analytics, and AI
-- 📫 How to reach me: muhammaduzair0822@gmail.com
+* 🔭 I'm a Data Scientist and Aspiring Machine Learning Engineer
+* 🌱 Currently exploring advanced topics in Machine Learning and Deep Learning
+* 💬 Feel free to ask me anything about Data Science, Data Analytics, and AI
+* 📫 How to reach me: **[muhammaduzair0822@gmail.com](mailto:muhammaduzair0822@gmail.com)**
+
+---
 
 ### Connect with me:
+
 <div id="badges">
   <a href="https://github.com/MuhammadUzaires">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -21,10 +24,16 @@
   </a>
 </div>
 
-### Languages and Tools:    
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,pytorch,keras&perline=6)](https://skillicons.dev)
+---
 
-### Data Science & ML Tools:
+### 💻 Languages and Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,django,fastapi\&perline=6)](https://skillicons.dev)
+
+---
+
+### 📊 Data Science & ML Tools
+
 <div>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -38,17 +47,60 @@
   <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </div>
 
-### BI & Big Data Tools:
+---
+
+### 📈 BI & Big Data Tools
+
 <div>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </div>
 
-### Skill Area Breakdown:
+---
+
+### ⚙️ DevOps, Automation & Tools
+
 <div>
-  <img src="https://img.shields.io/badge/Data%20Science -70db70?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning -f1c232?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics -ffbf00?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning -ff6666?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-n8n-1D3557?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white"/>
+</div>
+
+---
+
+### 📚 Productivity & General Tools
+
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white"/>
+</div>
+
+---
+
+### 🌐 Languages
+
+* **English** – Conversational (B2)
+* **Urdu** – Native (C2)
+
+---
+
+### 🔹 Skill Area Breakdown
+
+<div>
+  <img src="https://img.shields.io/badge/Data%20Science-70db70?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-f1c232?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-ff6666?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-ff9933?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-ffbf00?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-5e60ce?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-468faf?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
