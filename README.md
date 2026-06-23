@@ -1,106 +1,99 @@
-<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
+# Hi 👋, I'm Muhammad Uzair
 
-* 🔭 I'm a Data Scientist and Aspiring Machine Learning Engineer
-* 🌱 Currently exploring advanced topics in Machine Learning and Deep Learning
-* 💬 Feel free to ask me anything about Data Science, Data Analytics, and AI
-* 📫 How to reach me: **[muhammaduzair0822@gmail.com](mailto:muhammaduzair0822@gmail.com)**
+### AI Engineer | Backend Engineer | FastAPI Developer | DevOps Enthusiast
 
----
-
-### Connect with me:
-
-<div id="badges">
-  <a href="https://github.com/MuhammadUzaires">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-uzair-666119320/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+* 🔭 Currently working as a Backend & DevOps Engineer, building scalable SaaS applications using FastAPI, Docker, PostgreSQL, and Linux servers.
+* 🤖 Experienced in AI Engineering, NLP, Automation Workflows, and Machine Learning applications.
+* 🚀 Passionate about designing production-ready backend systems, REST APIs, and AI-powered solutions.
+* 🌱 Currently learning Advanced DevOps, Cloud Computing, System Design, and LLM Applications.
+* 💬 Ask me about Python, FastAPI, AI Automation, NLP, Docker, Linux, PostgreSQL, and Backend Development.
+* 📫 Reach me at: **[muhammaduzaires@gmail.com](mailto:muhammaduzaires@gmail.com)**
 
 ---
 
-### 💻 Languages and Frameworks
+## 🌐 Connect With Me
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,django,fastapi\&perline=6)](https://skillicons.dev)
-
----
-
-### 📊 Data Science & ML Tools
-
-<div>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-3A77A6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</div>
+* GitHub: https://github.com/MuhammadUzaires
+* LinkedIn: https://www.linkedin.com/in/muhammad-uzaires/
+* Portfolio: https://m-portfolio-kappa.vercel.app
 
 ---
 
-### 📈 BI & Big Data Tools
+## 💻 Tech Stack
 
-<div>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</div>
+### Programming Languages
 
----
+Python • SQL • JavaScript
 
-### ⚙️ DevOps, Automation & Tools
+### Backend Development
 
-<div>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-n8n-1D3557?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white"/>
-</div>
+FastAPI • Django • REST APIs • JWT Authentication • RBAC
 
----
+### Databases
 
-### 📚 Productivity & General Tools
+PostgreSQL • MySQL
 
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google%20Slides-FBBC05?style=for-the-badge&logo=googleslides&logoColor=white"/>
-</div>
+### AI & Machine Learning
+
+Machine Learning • NLP • BERT • Hugging Face • Data Science • AI Automation
+
+### DevOps & Deployment
+
+Docker • Docker Compose • Linux • Nginx • VPS Management • CI/CD • Redis • Celery
+
+### Automation & Analytics
+
+n8n • Power BI • Notion API • GoHighLevel (GHL)
+
+### Version Control
+
+Git • GitHub • Bitbucket
 
 ---
 
-### 🌐 Languages
+## 🚀 Featured Projects
 
-* **English** – Conversational (B2)
-* **Urdu** – Native (C2)
+### HRMS with NLP Resume Screening System
+
+* Built an AI-powered resume screening platform using BERT embeddings and cosine similarity.
+* Achieved 95% resume-job matching accuracy.
+* Developed FastAPI services for real-time candidate ranking and recommendations.
+
+### EzAppointo SaaS Platform
+
+* Backend & DevOps Engineer for a SaaS appointment management platform.
+* Developed secure APIs using FastAPI.
+* Managed Docker deployments, VPS infrastructure, and CI/CD pipelines.
+
+### Trademark Publication Scraper
+
+* Developed an automated web scraper for Saudi Arabia IP Gazette.
+* Extracted trademark publication data and generated structured datasets for analysis.
+
+### YouTube-to-Newsletter Automation
+
+* Built an n8n workflow that monitors YouTube channels.
+* Generates AI-powered newsletters using Google Gemini.
+* Automatically distributes content via Gmail and Substack.
 
 ---
 
-### 🔹 Skill Area Breakdown
+## 📜 Certifications
 
-<div>
-  <img src="https://img.shields.io/badge/Data%20Science-70db70?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-f1c232?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-ff6666?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-ff9933?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-ffbf00?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-5e60ce?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-468faf?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+* Stanford University – Machine Learning (Andrew Ng)
+* Stanford University – Deep Learning (Andrew Ng)
+* University of Michigan – Python Specialization
+* IBM – Introduction to Data Science
+* Coursera – Docker Essentials
+
+---
+
+## 📊 Current Focus
+
+* AI Engineering
+* Backend Architecture
+* FastAPI Ecosystem
+* DevOps & Cloud Engineering
+* Large Language Models (LLMs)
+* Distributed Systems
+* Automation Engineering
