@@ -1,99 +1,83 @@
-# Hi 👋, I'm Muhammad Uzair
+<div align="center">
 
-### AI Engineer | Backend Engineer | FastAPI Developer | DevOps Enthusiast
+# Hi, I'm Muhammad Uzair 👋
 
-* 🔭 Currently working as a Backend & DevOps Engineer, building scalable SaaS applications using FastAPI, Docker, PostgreSQL, and Linux servers.
-* 🤖 Experienced in AI Engineering, NLP, Automation Workflows, and Machine Learning applications.
-* 🚀 Passionate about designing production-ready backend systems, REST APIs, and AI-powered solutions.
-* 🌱 Currently learning Advanced DevOps, Cloud Computing, System Design, and LLM Applications.
-* 💬 Ask me about Python, FastAPI, AI Automation, NLP, Docker, Linux, PostgreSQL, and Backend Development.
-* 📫 Reach me at: **[muhammaduzaires@gmail.com](mailto:muhammaduzaires@gmail.com)**
+### Backend Developer · FastAPI & Django · DevOps Engineer
 
----
+I build reliable APIs, automate workflows, and deploy production-ready applications.
 
-## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge)](https://m-portfolio-kappa.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammadUzaires-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadUzaires)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammaduzaires@gmail.com)
 
-* GitHub: https://github.com/MuhammadUzaires
-* LinkedIn: https://www.linkedin.com/in/muhammad-uzaires/
-* Portfolio: https://m-portfolio-kappa.vercel.app
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+I'm a **Backend & DevOps Engineer** working on SaaS applications, REST APIs, infrastructure automation, and AI-powered workflows.
 
-Python • SQL • JavaScript
+- 🔧 Build backend services using **Python, FastAPI, and Django**
+- 🐳 Deploy containerized applications with **Docker, Nginx, Linux, and CI/CD**
+- 🗄️ Work with **PostgreSQL, MySQL, Redis, and Celery**
+- 🤖 Develop **n8n automations, API integrations, and NLP-based solutions**
+- 📚 Explore **system design, cloud infrastructure, and LLM applications**
 
-### Backend Development
+## 🛠️ Technical Skills
 
-FastAPI • Django • REST APIs • JWT Authentication • RBAC
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Python, FastAPI, Django, REST APIs, JWT, RBAC |
+| **Databases & Queues** | PostgreSQL, MySQL, Redis, Celery |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Linux, Nginx, VPS, CI/CD, Jenkins |
+| **Automation & AI** | n8n, API Integrations, NLP, BERT, Hugging Face |
+| **Developer Tools** | Git, GitHub, Bitbucket, Postman |
 
-### Databases
+## 🚀 Featured Work
 
-PostgreSQL • MySQL
+### 📅 EzAppointo — SaaS Appointment Platform
+**Backend Development & DevOps**
 
-### AI & Machine Learning
+- Worked on API development for an appointment scheduling platform using **FastAPI**.
+- Implemented authentication and role-based access controls.
+- Managed containerized services, reverse proxy configuration, and CI/CD infrastructure.
 
-Machine Learning • NLP • BERT • Hugging Face • Data Science • AI Automation
+*Professional project; implementation details are shared only where permitted.*
 
-### DevOps & Deployment
+### 🧠 HRMS — NLP Resume Screening
+**Python · FastAPI · BERT · NLP**
 
-Docker • Docker Compose • Linux • Nginx • VPS Management • CI/CD • Redis • Celery
+- Built a resume-to-job-description matching workflow using **BERT embeddings and cosine similarity**.
+- Developed backend integration for candidate ranking and recommendations.
 
-### Automation & Analytics
+### ⚙️ Workflow Automation — YouTube to Newsletter
+**n8n · APIs · AI Integration**
 
-n8n • Power BI • Notion API • GoHighLevel (GHL)
+- Automated new-video detection, content processing, and AI-assisted newsletter drafting.
+- Connected workflow steps to external publishing and notification services.
 
-### Version Control
+### 🔎 Trademark Publication Data Extraction
+**Python · Automation · Data Processing**
 
-Git • GitHub • Bitbucket
+- Built a workflow for extracting structured trademark publication information.
+- Organized extracted records for downstream analysis and database storage.
 
----
+## 🎓 Education & Learning
 
-## 🚀 Featured Projects
+- **B.S. Computer Science** — University of Engineering & Technology, Mardan
+- **Python 3 Programming Specialization** — University of Michigan
 
-### HRMS with NLP Resume Screening System
+## 📬 Let's Connect
 
-* Built an AI-powered resume screening platform using BERT embeddings and cosine similarity.
-* Achieved 95% resume-job matching accuracy.
-* Developed FastAPI services for real-time candidate ranking and recommendations.
+I'm interested in **backend development, DevOps, API integration, and automation** opportunities.
 
-### EzAppointo SaaS Platform
-
-* Backend & DevOps Engineer for a SaaS appointment management platform.
-* Developed secure APIs using FastAPI.
-* Managed Docker deployments, VPS infrastructure, and CI/CD pipelines.
-
-### Trademark Publication Scraper
-
-* Developed an automated web scraper for Saudi Arabia IP Gazette.
-* Extracted trademark publication data and generated structured datasets for analysis.
-
-### YouTube-to-Newsletter Automation
-
-* Built an n8n workflow that monitors YouTube channels.
-* Generates AI-powered newsletters using Google Gemini.
-* Automatically distributes content via Gmail and Substack.
-
----
-
-## 📜 Certifications
-
-* Stanford University – Machine Learning (Andrew Ng)
-* Stanford University – Deep Learning (Andrew Ng)
-* University of Michigan – Python Specialization
-* IBM – Introduction to Data Science
-* Coursera – Docker Essentials
+- 🌐 [Portfolio](https://m-portfolio-kappa.vercel.app)
+- 💻 [GitHub](https://github.com/MuhammadUzaires)
+- ✉️ [Email](mailto:muhammaduzaires@gmail.com)
 
 ---
 
-## 📊 Current Focus
-
-* AI Engineering
-* Backend Architecture
-* FastAPI Ecosystem
-* DevOps & Cloud Engineering
-* Large Language Models (LLMs)
-* Distributed Systems
-* Automation Engineering
+<div align="center">
+  <sub>Building practical software, one reliable deployment at a time.</sub>
+</div>
