@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://m-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/Explore_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+<a href="https://muhammaduzaires.vercel.app"><img src="https://img.shields.io/badge/Explore_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
 <a href="https://github.com/MuhammadUzaires?tab=repositories"><img src="https://img.shields.io/badge/View_Projects-172554?style=for-the-badge&logo=github&logoColor=white" alt="View projects" /></a>
 <a href="https://www.linkedin.com/in/muhammad-uzaires/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:muhammaduzaires@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -151,7 +151,7 @@ Understand requirements → Design APIs and data models
 
 **Have a backend, deployment, or automation challenge? Let's build something useful.**
 
-<a href="https://m-portfolio-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://muhammaduzaires.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/muhammad-uzaires/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:muhammaduzaires@gmail.com"><img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
